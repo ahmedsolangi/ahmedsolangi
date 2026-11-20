@@ -1,0 +1,11 @@
+<svg width="1200" height="48" viewBox="0 0 1200 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Decorative section divider">
+  <defs>
+    <linearGradient id="line" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#8B7CFF" stop-opacity="0"/><stop offset=".2" stop-color="#8B7CFF" stop-opacity=".6"/><stop offset=".5" stop-color="#5EAAFF"/><stop offset=".8" stop-color="#42D3A7" stop-opacity=".6"/><stop offset="1" stop-color="#42D3A7" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <path d="M120 24H1080" stroke="#334562" stroke-opacity=".38"/>
+  <path d="M405 24H795" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M405 24H795" stroke="url(#line)"/>
+  <circle cx="600" cy="24" r="4" fill="#091426" stroke="#5EAAFF" stroke-width="1.5"/>
+  <circle cx="600" cy="24" r="4" fill="none" stroke="#5EE7F7"><animate attributeName="r" values="4;10;4" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="3s" repeatCount="indefinite"/></circle>
+</svg>

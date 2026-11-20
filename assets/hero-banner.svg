@@ -1,0 +1,98 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Solangi</title>
+  <desc id="desc">Software Engineer and Senior Odoo ERP Developer and Implementer, based in Jeddah and open to remote and international opportunities.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="22" x2="1130" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07101F"/>
+      <stop offset="0.5" stop-color="#0B1024"/>
+      <stop offset="1" stop-color="#071827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="127" y1="0" x2="660" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9B8CFF"/>
+      <stop offset="0.48" stop-color="#5EAAFF"/>
+      <stop offset="1" stop-color="#5EE7F7"/>
+    </linearGradient>
+    <linearGradient id="line" x1="705" y1="74" x2="1092" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B7CFF" stop-opacity="0.9"/>
+      <stop offset="0.52" stop-color="#5EAAFF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#42D3A7" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(880 205) rotate(90) scale(240 315)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EAAFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#5EAAFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8AA4C7" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="428" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect x="1" y="1" width="1198" height="428" rx="28" fill="url(#bg)"/>
+    <rect width="1200" height="430" fill="url(#grid)"/>
+    <rect width="1200" height="430" fill="url(#glow)"/>
+    <circle cx="1140" cy="-18" r="180" fill="#8B7CFF" fill-opacity="0.06"/>
+    <circle cx="45" cy="416" r="145" fill="#42D3A7" fill-opacity="0.04"/>
+
+    <g opacity="0.92">
+      <circle cx="882" cy="215" r="126" stroke="#5EAAFF" stroke-opacity="0.16" stroke-width="1.2" stroke-dasharray="4 11">
+        <animateTransform attributeName="transform" type="rotate" from="0 882 215" to="360 882 215" dur="28s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="882" cy="215" r="88" stroke="#8B7CFF" stroke-opacity="0.22" stroke-width="1.2" stroke-dasharray="3 9">
+        <animateTransform attributeName="transform" type="rotate" from="360 882 215" to="0 882 215" dur="22s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M752 290L806 253L856 270L912 198L968 218L1038 134" stroke="url(#line)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M752 290L806 253L856 270L912 198L968 218L1038 134" stroke="#5EE7F7" stroke-opacity="0.28" stroke-width="7" filter="url(#softGlow)"/>
+      <g fill="#07101F" stroke-width="2.5">
+        <circle cx="752" cy="290" r="6" stroke="#8B7CFF"/>
+        <circle cx="806" cy="253" r="6" stroke="#5EAAFF"/>
+        <circle cx="856" cy="270" r="6" stroke="#5EE7F7"/>
+        <circle cx="912" cy="198" r="7" stroke="#8B7CFF"/>
+        <circle cx="968" cy="218" r="6" stroke="#5EAAFF"/>
+        <circle cx="1038" cy="134" r="7" stroke="#42D3A7"/>
+      </g>
+      <circle cx="912" cy="198" r="12" fill="none" stroke="#8B7CFF" stroke-opacity="0.7">
+        <animate attributeName="r" values="9;18;9" dur="3.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".75;0;.75" dur="3.4s" repeatCount="indefinite"/>
+      </circle>
+      <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.4">
+        <rect x="785" y="105" width="106" height="30" rx="15" fill="#111B35" stroke="#8B7CFF" stroke-opacity="0.42"/>
+        <text x="838" y="125" text-anchor="middle" fill="#C7C2FF">ERP LOGIC</text>
+        <rect x="1000" y="275" width="108" height="30" rx="15" fill="#0C2230" stroke="#42D3A7" stroke-opacity="0.42"/>
+        <text x="1054" y="295" text-anchor="middle" fill="#98F3D7">OPERATIONS</text>
+        <rect x="712" y="322" width="106" height="30" rx="15" fill="#0C1D32" stroke="#5EE7F7" stroke-opacity="0.38"/>
+        <text x="765" y="342" text-anchor="middle" fill="#A9F1FA">AUTOMATION</text>
+      </g>
+    </g>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="76" y="64" width="310" height="32" rx="16" fill="#101A32" stroke="#5EE7F7" stroke-opacity="0.3"/>
+      <circle cx="95" cy="80" r="4" fill="#42D3A7">
+        <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="110" y="85" fill="#B8C8DE" font-size="13" font-weight="700" letter-spacing="1.1">OPEN TO GLOBAL OPPORTUNITIES</text>
+
+      <text x="76" y="178" fill="#F2F6FF" font-size="62" font-weight="700" letter-spacing="-1.8">Ahmed Solangi</text>
+      <rect x="77" y="197" width="508" height="4" rx="2" fill="url(#accent)">
+        <animate attributeName="width" values="150;508;508" dur="2.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="77" y="240" fill="#D4DDF0" font-size="24" font-weight="600">Software Engineer · Senior Odoo ERP Developer</text>
+      <text x="77" y="273" fill="#90A3BF" font-size="20">&amp; Implementer</text>
+      <text x="77" y="325" fill="#B4C0D4" font-size="17">Turning operational complexity into maintainable ERP systems.</text>
+
+      <g transform="translate(77 354)">
+        <rect width="128" height="34" rx="10" fill="#111B35" stroke="#8B7CFF" stroke-opacity="0.48"/>
+        <text x="64" y="22" text-anchor="middle" fill="#D5D0FF" font-size="13" font-weight="700">ODOO v15–v20</text>
+        <rect x="140" width="116" height="34" rx="10" fill="#0C1D32" stroke="#5EAAFF" stroke-opacity="0.48"/>
+        <text x="198" y="22" text-anchor="middle" fill="#B8D9FF" font-size="13" font-weight="700">5+ YEARS</text>
+        <rect x="268" width="160" height="34" rx="10" fill="#0C2230" stroke="#42D3A7" stroke-opacity="0.48"/>
+        <text x="348" y="22" text-anchor="middle" fill="#A7F0D9" font-size="13" font-weight="700">ERP ENGINEERING</text>
+      </g>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="428" rx="28" stroke="#8395B5" stroke-opacity="0.2" stroke-width="2"/>
+</svg>

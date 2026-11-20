@@ -1,0 +1,35 @@
+<svg width="1200" height="188" viewBox="0 0 1200 188" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contact Ahmed Solangi</title>
+  <desc id="desc">Contact Ahmed by email, LinkedIn, or WhatsApp for roles, consulting, or collaboration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="188" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1530"/><stop offset=".5" stop-color="#0B1930"/><stop offset="1" stop-color="#08272A"/></linearGradient>
+    <linearGradient id="edge" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#8B7CFF"/><stop offset=".5" stop-color="#5EAAFF"/><stop offset="1" stop-color="#42D3A7"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="186" rx="22" fill="url(#bg)" stroke="#7891B6" stroke-opacity=".22" stroke-width="2"/>
+  <rect x="64" y="28" width="1072" height="2" rx="1" fill="url(#edge)" opacity=".85"/>
+  <rect x="64" y="27" width="240" height="4" rx="2" fill="#5EE7F7" opacity=".35" filter="url(#glow)"><animate attributeName="x" values="64;896;64" dur="8s" repeatCount="indefinite"/></rect>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="72" fill="#EEF4FF" font-size="23" font-weight="700">Let’s connect the technical work to the business outcome.</text>
+    <text x="64" y="103" fill="#91A4BF" font-size="15">Open to international roles, ERP consulting, and focused collaborations.</text>
+    <g transform="translate(64 125)">
+      <circle cx="8" cy="8" r="8" fill="#5EE7F7" fill-opacity=".15" stroke="#5EE7F7" stroke-opacity=".7"/>
+      <path d="M4.5 6L8 9L11.5 6M4 5H12V11H4V5Z" stroke="#B9F6FC" stroke-width="1" stroke-linejoin="round"/>
+      <text x="27" y="13" fill="#C8D5E7" font-size="13" font-weight="700">ahmedsolangi.dev@gmail.com</text>
+    </g>
+    <g transform="translate(374 125)">
+      <rect width="16" height="16" rx="4" fill="#5EAAFF" fill-opacity=".16" stroke="#5EAAFF" stroke-opacity=".7"/>
+      <text x="8" y="12" text-anchor="middle" fill="#C4E3FF" font-size="10" font-weight="700">in</text>
+      <text x="27" y="13" fill="#C8D5E7" font-size="13" font-weight="700">linkedin.com/in/ahmed-solangi</text>
+    </g>
+    <g transform="translate(760 125)">
+      <circle cx="8" cy="8" r="8" fill="#42D3A7" fill-opacity=".16" stroke="#42D3A7" stroke-opacity=".7"/>
+      <path d="M5 4.8C8.7 2.8 12.5 6.1 10.9 9.4C10.1 11.1 8 12 6.3 11.4L4.2 12L4.8 10C3.4 8.5 3.6 5.7 5 4.8Z" stroke="#C6F8E9" stroke-width=".9"/>
+      <text x="27" y="13" fill="#C8D5E7" font-size="13" font-weight="700">WhatsApp Business · Direct message</text>
+    </g>
+    <g transform="translate(1013 66)">
+      <rect width="123" height="42" rx="12" fill="#12233A" stroke="#5EE7F7" stroke-opacity=".46"/>
+      <text x="61.5" y="26" text-anchor="middle" fill="#C6F5FA" font-size="12" font-weight="700" letter-spacing="1">EMAIL ME →</text>
+    </g>
+  </g>
+</svg>

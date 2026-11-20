@@ -1,0 +1,47 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technical operating system</title>
+  <desc id="desc">A connected technology map centered on Odoo ERP with Python, JavaScript, OWL, XML, QWeb, PostgreSQL, Ubuntu, Git, accounting, and ZATCA.</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="0" x2="1160" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#071321"/><stop offset=".5" stop-color="#0B1023"/><stop offset="1" stop-color="#071C25"/></linearGradient>
+    <linearGradient id="core" x1="488" y1="119" x2="711" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#332D67"/><stop offset=".5" stop-color="#172E55"/><stop offset="1" stop-color="#0D3A42"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#5EAAFF" stop-opacity=".22"/><stop offset="1" stop-color="#5EAAFF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#7890AF" stroke-opacity=".055"/></pattern>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="388" rx="22" fill="url(#bg)" stroke="#7891B6" stroke-opacity=".2" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="388" rx="22" fill="url(#grid)"/>
+  <ellipse cx="600" cy="197" rx="290" ry="171" fill="url(#halo)"/>
+
+  <g stroke="#6884AC" stroke-opacity=".3" stroke-width="1.5" stroke-dasharray="5 7">
+    <path d="M487 154L272 91"/><path d="M487 178L248 192"/><path d="M491 230L290 307"/><path d="M713 154L930 89"/><path d="M713 180L951 190"/><path d="M709 232L911 307"/>
+  </g>
+  <g fill="#5EE7F7" opacity=".8">
+    <circle r="3"><animateMotion dur="3.8s" repeatCount="indefinite" path="M487 154L272 91"/></circle>
+    <circle r="3"><animateMotion dur="4.4s" repeatCount="indefinite" path="M487 178L248 192"/></circle>
+    <circle r="3"><animateMotion dur="4.8s" repeatCount="indefinite" path="M491 230L290 307"/></circle>
+    <circle r="3"><animateMotion dur="4.2s" repeatCount="indefinite" path="M713 154L930 89"/></circle>
+    <circle r="3"><animateMotion dur="5s" repeatCount="indefinite" path="M713 180L951 190"/></circle>
+    <circle r="3"><animateMotion dur="4.6s" repeatCount="indefinite" path="M709 232L911 307"/></circle>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(486 117)">
+      <rect width="228" height="158" rx="28" fill="url(#core)" stroke="#7BDCF3" stroke-opacity=".55" stroke-width="1.5"/>
+      <circle cx="114" cy="55" r="25" fill="#101A36" stroke="#8B7CFF" stroke-width="2"/>
+      <path d="M103 56L112 65L128 45" stroke="#5EE7F7" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="114" y="105" fill="#F0F5FF" text-anchor="middle" font-size="27" font-weight="700">Odoo ERP</text>
+      <text x="114" y="130" fill="#93A8C5" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.5">ENGINEER · IMPLEMENT · OPTIMIZE</text>
+    </g>
+
+    <g transform="translate(95 47)"><rect width="177" height="86" rx="16" fill="#10182E" stroke="#8B7CFF" stroke-opacity=".4"/><text x="20" y="35" fill="#B8B0FF" font-size="17" font-weight="700">Python</text><text x="20" y="59" fill="#8296B3" font-size="12">ORM · business logic</text></g>
+    <g transform="translate(72 149)"><rect width="176" height="86" rx="16" fill="#0D1A31" stroke="#5EAAFF" stroke-opacity=".4"/><text x="20" y="35" fill="#87C4FF" font-size="17" font-weight="700">JavaScript + OWL</text><text x="20" y="59" fill="#8296B3" font-size="12">Interactive ERP interfaces</text></g>
+    <g transform="translate(113 264)"><rect width="177" height="86" rx="16" fill="#0C1C30" stroke="#5EE7F7" stroke-opacity=".4"/><text x="20" y="35" fill="#86E9F4" font-size="17" font-weight="700">XML + QWeb</text><text x="20" y="59" fill="#8296B3" font-size="12">Views · reports · templates</text></g>
+
+    <g transform="translate(930 46)"><rect width="177" height="86" rx="16" fill="#0D1A31" stroke="#5EAAFF" stroke-opacity=".4"/><text x="20" y="35" fill="#87C4FF" font-size="17" font-weight="700">PostgreSQL</text><text x="20" y="59" fill="#8296B3" font-size="12">Data · queries · migration</text></g>
+    <g transform="translate(951 147)"><rect width="177" height="86" rx="16" fill="#0C1C30" stroke="#5EE7F7" stroke-opacity=".4"/><text x="20" y="35" fill="#86E9F4" font-size="17" font-weight="700">Ubuntu + Git</text><text x="20" y="59" fill="#8296B3" font-size="12">Deploy · operate · version</text></g>
+    <g transform="translate(911 264)"><rect width="196" height="86" rx="16" fill="#0B2029" stroke="#42D3A7" stroke-opacity=".4"/><text x="20" y="35" fill="#6BE1BB" font-size="17" font-weight="700">Accounting + ZATCA</text><text x="20" y="59" fill="#8296B3" font-size="12">Compliance-aware workflows</text></g>
+  </g>
+  <circle cx="600" cy="196" r="104" fill="none" stroke="#8B7CFF" stroke-opacity=".2" stroke-dasharray="2 12">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 196" to="360 600 196" dur="24s" repeatCount="indefinite"/>
+  </circle>
+</svg>
