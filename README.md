@@ -7,7 +7,7 @@
 [![Email Ahmed](https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=5EE7F7)](mailto:ahmedsolangi.dev@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=8B7CFF)](https://www.linkedin.com/in/ahmed-solangi/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0B1220?style=for-the-badge&logo=whatsapp&logoColor=42D3A7)](https://wa.me/966547894198)
-![Open to remote and international opportunities](https://img.shields.io/badge/Open_to-Remote_%26_International_Roles-172039?style=for-the-badge&logo=target&logoColor=5EE7F7)
+[![Open to remote and international opportunities](https://img.shields.io/badge/Open_to-Remote_%26_International_Roles-172039?style=for-the-badge&logo=target&logoColor=5EE7F7)](mailto:ahmedsolangi.dev@gmail.com)
 
 </div>
 
